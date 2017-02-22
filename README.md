@@ -2,7 +2,7 @@
 
 # Movies For Hackers
 
-A curated list of movies every hacker & cyberpunk must watch.
+A curated list of movies every hacker & cyberpunk must watch. Ratings are from IMDB.
 
 - [Movies For Hackers](#movies-for-hackers)
     - [Thrillers/Drama](#thrillers--drama)
