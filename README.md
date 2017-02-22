@@ -14,7 +14,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 
 - - -
 
-## Thrillers / Drama
+## Fiction
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
@@ -41,11 +41,6 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Swordfish](http://www.imdb.com/title/tt0244244/)                                          | Caper story/Thriller      | 2001 | 6.5/10 |
 | [Live Free or Die Hard](http://www.imdb.com/title/tt0337978/)                              | Thriller/Action           | 2007 | 7.2/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
-
-## Science Fiction / Fantasy
-
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
-|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [The Matrix](http://www.imdb.com/title/tt0133093/)                                         | Fantasy/Action            | 1999 | 8.7/10 |
 | [The Lawnmower Man](http://www.imdb.com/title/tt0104692/)                                  | Fantasy/Action            | 1992 | 5.4/10 |
 | [Open Windows](http://www.imdb.com/title/tt2409818/)                                       | Fantasy/Crime             | 2014 | 5.2/10 |
@@ -56,11 +51,6 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Ghost in the Shell](http://www.imdb.com/title/tt0113568/)                                 | Fantasy/Animation         | 1995 | 8/10   |
 | [Avalon](http://www.imdb.com/title/tt0267287/)                                             | Fantasy/Science fiction   | 2001 | 6.6/10 |
 | [Blade Runner](http://www.imdb.com/title/tt0083658/)                                       | Science fiction/Thriller  | 1982 | 8.2/10 |
-
-## Action
-
-| MOVIE                                                                                      | GENRE                     | YEAR | RATING |
-|--------------------------------------------------------------------------------------------|---------------------------|------|--------|
 | [Sneakers](http://www.imdb.com/title/tt0105435/)                                           | Thriller/Action           | 1992 | 7.1/10 |
 | [Firewall](http://www.imdb.com/title/tt0408345/)                                           | Thriller/Action           | 2006 | 5.8/10 |
 | [Gamer](http://www.imdb.com/title/tt1034032/)                                              | Thriller/Action           | 2009 | 5.8/10 |
@@ -68,7 +58,7 @@ A curated list of movies every hacker & cyberpunk must watch.
 | [Eagle Eye](http://www.imdb.com/title/tt1059786/)                                          | Thriller/Action           | 2008 | 6.6/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 
-## Documentaries
+## Fact
 
 | MOVIE                                                                                      | GENRE                     | YEAR | RATING |
 |--------------------------------------------------------------------------------------------|---------------------------|------|--------|
