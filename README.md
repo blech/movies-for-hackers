@@ -49,6 +49,7 @@ A curated list of movies every hacker & cyberpunk must watch. Ratings are from I
 | [The Net](http://www.imdb.com/title/tt0113957/)                                            | Thriller/Drama            | 1995 | 5.8/10 |
 | [The Social Network](http://www.imdb.com/title/tt1285016/)                                 | Drama/History             | 2010 | 7.7/10 |
 | [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/)                               | Thriller/Mystery          | 1999 | 7/10   |
+| [Tron](http://www.imdb.com/title/tt0084827/)                                       | Action/Adventure/Science Fiction | 2010 | 6.8/10 |
 | [Tron: Legacy](http://www.imdb.com/title/tt1104001/)                                       | Action/Adventure          | 2010 | 6.8/10 |
 | [Underground: The Julian Assange Story](http://www.imdb.com/title/tt2357453/)              | Drama/Biography           | 2012 | 6.8/10 |
 | [Untraceable](http://www.imdb.com/title/tt0880578/)                                        | Slasher/Thriller          | 2008 | 6.2/10 |
